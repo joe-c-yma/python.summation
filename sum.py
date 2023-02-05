@@ -3,7 +3,7 @@
 def sum(n):
     """Return the sum of the first n natural numbers.
     
-    some stuff
+    some MORE stuff
 
     >>> sum(10)
     55
